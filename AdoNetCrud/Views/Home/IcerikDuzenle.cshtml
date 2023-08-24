@@ -1,0 +1,16 @@
+﻿@model AdoNetCrud.Models.BlogPost
+
+@{
+    ViewData["Title"] = "İçerik Düzenle";
+}
+
+<p>@ViewBag.Msg</p>
+
+<form method="post" autocomplete="off">
+    <input name="Title" value="@Model.title" type="text" placeholder="Başlık" required /><br />
+    <input name="Slug" value="@Model.slug" type="text" placeholder="Slug" required /><br />
+    <textarea name="Summary" placeholder="Özet" required>@Model.summary</textarea><br />
+    <textarea name="Content" placeholder="İçerik" required>@Model.content</textarea><br />
+    <input type="hidden" name="Id" value="@Model.id" />
+    <input type="submit" value="Düzenle" />
+</form>

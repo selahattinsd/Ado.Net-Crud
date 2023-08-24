@@ -1,0 +1,7 @@
+﻿@model AdoNetCrud.Models.BlogPostDetail
+@{
+    ViewData["Title"] = Model.title;
+}
+
+<h3>@Model.title</h3>
+@Html.Raw(Model.content)

@@ -1,0 +1,506 @@
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.csproj.AssemblyReference.cache
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.GeneratedMSBuildEditorConfig.editorconfig
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.AssemblyInfoInputs.cache
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.AssemblyInfo.cs
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.csproj.CoreCompileInputs.cache
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.MvcApplicationPartsAssemblyInfo.cache
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.RazorAssemblyInfo.cache
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.RazorAssemblyInfo.cs
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\appsettings.Development.json
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\appsettings.json
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\AdoNetCrud.staticwebassets.runtime.json
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\AdoNetCrud.exe
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\AdoNetCrud.deps.json
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\AdoNetCrud.runtimeconfig.json
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\AdoNetCrud.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\AdoNetCrud.pdb
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\staticwebassets\msbuild.AdoNetCrud.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\staticwebassets\msbuild.build.AdoNetCrud.props
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AdoNetCrud.props
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AdoNetCrud.props
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\staticwebassets.pack.json
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\staticwebassets.build.json
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\staticwebassets.development.json
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\scopedcss\bundle\AdoNetCrud.styles.css
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\scopedcss\projectbundle\AdoNetCrud.bundle.scp.css
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.csproj.CopyComplete
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\refint\AdoNetCrud.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.pdb
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.genruntimeconfig.cache
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\ref\AdoNetCrud.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Humanizer.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\MessagePack.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.Build.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.Common.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MVS Çalışmalarım\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\appsettings.Development.json
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\appsettings.json
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\AdoNetCrud.staticwebassets.runtime.json
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\AdoNetCrud.exe
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\AdoNetCrud.deps.json
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\AdoNetCrud.runtimeconfig.json
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\AdoNetCrud.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\AdoNetCrud.pdb
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Humanizer.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\MessagePack.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.Common.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.csproj.AssemblyReference.cache
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.AssemblyInfoInputs.cache
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.AssemblyInfo.cs
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.csproj.CoreCompileInputs.cache
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.MvcApplicationPartsAssemblyInfo.cache
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.RazorAssemblyInfo.cache
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.RazorAssemblyInfo.cs
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\staticwebassets\msbuild.AdoNetCrud.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\staticwebassets\msbuild.build.AdoNetCrud.props
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AdoNetCrud.props
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AdoNetCrud.props
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\staticwebassets.build.json
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\staticwebassets.development.json
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\scopedcss\bundle\AdoNetCrud.styles.css
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\scopedcss\projectbundle\AdoNetCrud.bundle.scp.css
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.csproj.CopyComplete
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\refint\AdoNetCrud.dll
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.pdb
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\AdoNetCrud.genruntimeconfig.cache
+D:\Backend\AdoNetCrud\AdoNetCrud\obj\Debug\net6.0\ref\AdoNetCrud.dll

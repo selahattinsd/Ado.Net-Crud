@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "İçerik Ekle";
+}
+
+<p>@ViewBag.Msg</p>
+
+<form method="post" autocomplete="off">
+    <input name="Title" type="text" placeholder="Başlık" required /><br />
+    <input name="Slug" type="text" placeholder="Slug" required /><br />
+    <textarea name="Summary" placeholder="Özet" required></textarea><br />
+    <textarea name="Content" placeholder="İçerik" required></textarea><br />
+    <input type="submit" value="Ekle" />
+</form>

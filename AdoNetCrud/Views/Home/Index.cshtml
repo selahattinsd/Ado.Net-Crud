@@ -1,0 +1,23 @@
+﻿@model List<AdoNetCrud.Models.BlogPost>
+@{
+    ViewData["Title"] = "Anasayfa";
+}
+
+@{
+
+    if (Model.Count == 0)
+    {
+        <p>Blog yok</p>
+    }
+
+}
+
+@{
+    foreach (var blogPost in Model)
+    {
+        <h3>@blogPost.title</h3>
+        <p>@Html.Raw(blogPost.summary)</p>
+        <p><a href="/@blogPost.slug">Detay</a> | <a href="home/Duzenle/@blogPost.id">Düzenle</a> | <a href="home/Sil/@blogPost.id" onclick="return confirm('Emin misiniz?');">Sil</a></p>
+        <hr />
+    }
+}
